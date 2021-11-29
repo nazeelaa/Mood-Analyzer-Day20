@@ -1,0 +1,14 @@
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.csproj.AssemblyReference.cache
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.AssemblyInfoInputs.cache
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.AssemblyInfo.cs
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.csproj.CoreCompileInputs.cache
+E:\vs\MoodAnalyzer_WithOutConstructor\bin\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.exe
+E:\vs\MoodAnalyzer_WithOutConstructor\bin\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.deps.json
+E:\vs\MoodAnalyzer_WithOutConstructor\bin\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.runtimeconfig.json
+E:\vs\MoodAnalyzer_WithOutConstructor\bin\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.runtimeconfig.dev.json
+E:\vs\MoodAnalyzer_WithOutConstructor\bin\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.dll
+E:\vs\MoodAnalyzer_WithOutConstructor\bin\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.pdb
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.dll
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.pdb
+E:\vs\MoodAnalyzer_WithOutConstructor\obj\Debug\netcoreapp3.1\MoodAnalyzer_WithOutConstructor.genruntimeconfig.cache
