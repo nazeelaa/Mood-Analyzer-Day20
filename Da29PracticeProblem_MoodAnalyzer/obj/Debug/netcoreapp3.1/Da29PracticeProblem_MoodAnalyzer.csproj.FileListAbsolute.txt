@@ -1,0 +1,13 @@
+E:\vs\Da29PracticeProblem_MoodAnalyzer\bin\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.exe
+E:\vs\Da29PracticeProblem_MoodAnalyzer\bin\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.deps.json
+E:\vs\Da29PracticeProblem_MoodAnalyzer\bin\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.runtimeconfig.json
+E:\vs\Da29PracticeProblem_MoodAnalyzer\bin\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.runtimeconfig.dev.json
+E:\vs\Da29PracticeProblem_MoodAnalyzer\bin\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.dll
+E:\vs\Da29PracticeProblem_MoodAnalyzer\bin\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.pdb
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.AssemblyInfoInputs.cache
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.AssemblyInfo.cs
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.csproj.CoreCompileInputs.cache
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.dll
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.pdb
+E:\vs\Da29PracticeProblem_MoodAnalyzer\obj\Debug\netcoreapp3.1\Da29PracticeProblem_MoodAnalyzer.genruntimeconfig.cache
